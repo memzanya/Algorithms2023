@@ -1,4 +1,4 @@
-include("C:/Users/Mizan/OneDrive/Рабочий стол/algo23/common.jl")
+include("common.jl")
 
 function task11(robot)::Int # ok
     (steps_south, steps_west) = run_to_south_west_corner(robot; by_side_first = West)
