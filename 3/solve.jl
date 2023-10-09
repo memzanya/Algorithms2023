@@ -1,4 +1,4 @@
-include("C:/Users/Mizan/OneDrive/Рабочий стол/algo23/common.jl")
+include("common.jl")
 
 function task3(robot) # ok
     (steps_south, steps_west) = run_to_south_west_corner(r)
