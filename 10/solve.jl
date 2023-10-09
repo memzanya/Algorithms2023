@@ -1,4 +1,4 @@
-include("C:/Users/Mizan/OneDrive/Рабочий стол/algo23/common.jl")
+include("common.jl")
 
 
 function chess_mark_square(robot, N::Int)
