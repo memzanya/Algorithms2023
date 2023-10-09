@@ -1,4 +1,4 @@
-include("C:/Users/Mizan/OneDrive/Рабочий стол/algo23/common.jl")
+include("common.jl")
 
 function task4(robot) # ok
     putmarker!(robot)
